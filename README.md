@@ -169,7 +169,7 @@ npm run dev
 | **Neeraj Chauhan** | AI / Data Engineer & Lead | ML forecasting, proximity algorithms, Gemini API wrappers |
 | **Anurag Verma** | Backend Architect | FastAPI, MongoDB, PostgreSQL schema, Redis queues, alert routing |
 | **Nitin Aryan** | Frontend Engineer | Next.js, Tailwind CSS, shadcn/ui — low-bandwidth responsive dashboards |
-| **Sreedharan** | Product & Full-Stack Integration | Firebase Auth, Cloud Run deployment, multilingual APIs |
+| **Sreedharan** | Product & Full-Stack Integration | O Auth, Cloud Run deployment, multilingual APIs |
 
 ---
 
